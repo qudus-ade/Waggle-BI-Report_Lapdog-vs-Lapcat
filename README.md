@@ -17,8 +17,8 @@ Check [here](https://github.com/qudus-ade/Waggle-BI-Report_Lapdog-vs-Lapcat/blob
 The data was provided and has been prepared for analysis by Udacity
 
 ## Analysis and Reports
-**1. Did the average daily steps increase for cats wearing the device as they did for dogs?
-2. Were owners of Lapcat devices as satisfied with the product as Lapdog owners?**
+**1. Did the average daily steps increase for cats wearing the device as they did for dogs?**
+**2. Were owners of Lapcat devices as satisfied with the product as Lapdog owners?**
 
 ![image](https://user-images.githubusercontent.com/67699946/182039328-568980d6-52b3-4d34-a72d-b9801f25fa0c.png)
 
@@ -48,3 +48,11 @@ Brichon Frise takes the highest number of daily steps
 ![image](https://user-images.githubusercontent.com/67699946/182041782-6cf280d7-3c3f-4dad-865c-b21afbef75a8.png)
 
 California has the highest number of pets in the United States.
+
+**Relationship between Household Income and Annual Pet Expenses**
+
+![image](https://user-images.githubusercontent.com/67699946/182045051-bf71a824-2dd6-428c-bcef-2abea37cc9ed.png)
+
+There is a positive correlation between Household Income and Pet Expenses. Households with relatively high income tends to spend more on their pets.
+
+Check the full report [here](https://github.com/qudus-ade/Waggle-BI-Report_Lapdog-vs-Lapcat/blob/main/Waggle%20BI%20Report%20-%20Lapdog%20vs%20Lapcat.pbix)
