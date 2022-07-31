@@ -17,7 +17,7 @@ Check [here](https://github.com/qudus-ade/Waggle-BI-Report_Lapdog-vs-Lapcat/blob
 The data was provided and has been prepared for analysis by Udacity
 
 ## Analysis and Reports
-*Did the average daily steps increase for cats wearing the device as they did for dogs?*
+**Did the average daily steps increase for cats wearing the device as they did for dogs?**
 
 ![image](https://user-images.githubusercontent.com/67699946/182039328-568980d6-52b3-4d34-a72d-b9801f25fa0c.png)
 
