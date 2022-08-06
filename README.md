@@ -17,7 +17,7 @@ Check [here](https://github.com/qudus-ade/Waggle-BI-Report_Lapdog-vs-Lapcat/blob
 The data was provided and has been prepared for analysis by Udacity
 
 ## Analysis and Reports
-**1. Did the average daily steps increase for cats wearing the device as they did for dogs?**
+**1. Did the average daily steps increase for cats wearing the device as they did for dogs?**\
 **2. Were owners of Lapcat devices as satisfied with the product as Lapdog owners?**
 
 ![image](https://user-images.githubusercontent.com/67699946/182039328-568980d6-52b3-4d34-a72d-b9801f25fa0c.png)
@@ -41,7 +41,7 @@ St. Bernard has the highest weight
 
 ![image](https://user-images.githubusercontent.com/67699946/182041574-a33ad4e0-489e-4b2f-a6fa-eb2ec81c12e3.png)
 
-Brichon Frise takes the highest number of daily steps
+Brichon Frise took the highest number of daily steps
 
 **Number of Pets by States**
 
